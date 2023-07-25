@@ -1,8 +1,6 @@
 # MITM-ARP-Spoofing
 
-## Docker Version
-
-## Instructions
+## Instructions & Docs
 
 This repo contains required files in order to get a succesful ARP Spoofing attack between computer/server and router in a controlled environmet ( a docker container )
 
